@@ -1,0 +1,25 @@
+data1:
+rho:1
+mu:0.01
+init_u:1
+inlet:(0, 0.2) (0, 0.5)
+outlet:(0.4, 1) (0.7, 1)
+Re:30
+
+data2:
+rho:1
+mu:0.002
+init_u:1
+inlet:(0, 0.2) (0, 0.5)
+outlet:(0.4, 1) (0.7, 1)
+Re:150
+
+data3:
+rho:1
+mu:0.001
+init_u:1
+inlet:(0, 0.2) (0, 0.5)
+outlet:(0.4, 1) (0.7, 1)
+Re:300
+
+grids: 50*50

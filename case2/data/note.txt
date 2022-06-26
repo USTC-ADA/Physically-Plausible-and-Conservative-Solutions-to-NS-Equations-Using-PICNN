@@ -1,0 +1,22 @@
+data1:
+Gamma: 0.01
+u,v: 1,2
+
+data2:
+Gamma: 0.01
+u,v: 1,2
+grids: 50*50
+
+data3:
+Gamma: 0.01
+u,v: 10,20
+
+data4:
+Gamma: 0.001
+u,v: 10,20
+
+left: 5
+right: 1
+up: 10
+down: 7
+

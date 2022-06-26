@@ -1,0 +1,22 @@
+data1：
+k:10
+
+data2：
+k:1
+
+data3：
+k:0.5
+
+data4：
+k:0.1
+
+rho:1
+mu:0.001
+init_u:1
+inlet:(0, 0.2) (0, 0.7)
+outlet:(1, 0.4) (1, 0.9)
+Re:500
+grids:50*50
+Cp:1000
+left:293.15K
+down/up/right:333.15K
